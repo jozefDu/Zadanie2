@@ -1,5 +1,5 @@
 ahoj 
-
+och joj
 
 -- vkladanie rezervacie
 insert into rezervacie (id_rezervacia, id_spoj, miesto_na_sedenie, id) values (

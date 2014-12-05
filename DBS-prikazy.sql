@@ -1,4 +1,5 @@
-ahoj 
+ahoj to som jaaaaaaaaaaa
+a prinasam spravodlivost som master
 
 
 -- vkladanie rezervacie

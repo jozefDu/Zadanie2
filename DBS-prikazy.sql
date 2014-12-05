@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-ahoj a
-och
+och och 
 =======
 ahoj 
 och joj

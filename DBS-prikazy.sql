@@ -1,5 +1,6 @@
 ahoj to som jaaaaaaaaaaa
 a prinasam spravodlivost
+neni to spravelnost ty debil
 
 
 -- vkladanie rezervacie

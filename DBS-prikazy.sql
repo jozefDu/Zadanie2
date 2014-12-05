@@ -1,6 +1,5 @@
 ahoj to som jaaaaaaaaaaa
-a prinasam spravodlivost
-neni to spravelnost ty debil
+a prinasam spravodlivost som master
 
 
 -- vkladanie rezervacie

@@ -1,8 +1,1 @@
 Toto je len test verzia nic iné
-<<<<<<< HEAD
-fadsfasfasjfldaskjflas;jfas;jfal
-=======
-aaaaaaaaaaaaaaaaaaaaaa
-sssssssssssssssssssss
-ddddddddddddddddddd
->>>>>>> origin/master

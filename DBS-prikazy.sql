@@ -1,4 +1,5 @@
-ahoj to som ja
+ahoj to som jaaaaaaaaaaa
+a prinasam spravodlivost
 
 
 -- vkladanie rezervacie
